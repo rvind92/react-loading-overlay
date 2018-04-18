@@ -133,7 +133,7 @@ const Spinner = styled.div`
 `
 
 const Content = styled.div`
-  margin: auto;
+  margin: 25% 50%;
 `
 
 const rotate360 = keyframes`
